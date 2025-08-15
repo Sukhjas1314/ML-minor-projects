@@ -11,3 +11,8 @@
 ### Movie Recommendation System
 <img width="890" height="506" alt="Work Flow" src="https://github.com/user-attachments/assets/3ce3e689-fb81-43ff-b250-e14d215d8cf5" />
 
+
+### Credit Card Fraud detection System
+<img width="2048" height="2048" alt="Gemini_Generated_Image_thvja1thvja1thvj" src="https://github.com/user-attachments/assets/95cc3c6b-a698-48c8-ab1c-8d13d3c3d4a4" />
+
+
